@@ -1,6 +1,6 @@
 {
   "name": "ember-colorpicker",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Ember CLI addon component to add a color picker to your templates.",
   "directories": {
     "doc": "doc",
